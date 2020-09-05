@@ -21,6 +21,7 @@ public class Transporte {
 		}
 		
 		
+		
 		/**
 		 * Retorna a potência do motor X carga máxima (kg) X 100
 		 * @return O consumo do transporte
